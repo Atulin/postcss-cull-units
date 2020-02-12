@@ -10,9 +10,3 @@ module.exports = postcss.plugin('postcss-cull-units', () => {
     })
   }
 })
-
-module.exports.t = function () {
-  let p = '10px 100rem 0em 20%'
-  let r = /\D(0)(cm|mm|in|px|pt|pc|em|ex|ch|rem|vw|vh|vmin|vmax|%)/g
-  console.log(p.match(r))
-}

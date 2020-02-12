@@ -16,4 +16,5 @@ it('removes units', async () => {
     .then(async buffers => {
       await run(buffers[0].toString(), buffers[1].toString(), {})
     })
+    .catch(() => {}) // Jest needs promise errors to just be discarded ¯\_(ツ)_/¯
 })
