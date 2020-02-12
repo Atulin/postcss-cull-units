@@ -1,6 +1,6 @@
-
 const postcss = require('postcss')
 const rfp = require('read-files-promise')
+
 const plugin = require('./')
 
 async function run (input, output, opts) {

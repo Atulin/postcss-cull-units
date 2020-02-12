@@ -1,5 +1,7 @@
 # PostCSS Cull Units
 
+[![Build Status](https://travis-ci.com/Atulin/postcss-cull-units.svg?branch=master)](https://travis-ci.com/Atulin/postcss-cull-units)
+
 [PostCSS] plugin that removes redundant units.
 
 [PostCSS]: https://github.com/postcss/postcss
