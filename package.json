@@ -1,5 +1,5 @@
 {
-  "name": "postcss-cull-units",
+  "name": "@Atulin/postcss-cull-units",
   "version": "1.0.0",
   "description": "PostCSS plugin that removes redundant units",
   "keywords": [
@@ -44,5 +44,8 @@
   },
   "jest": {
     "testEnvironment": "node"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
