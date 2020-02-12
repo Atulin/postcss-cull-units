@@ -1,0 +1,63 @@
+.zero-inside {
+  border: 0px solid #010F0A
+}
+
+.partial-zero {
+  width: 50vw;
+}
+
+.a {
+  margin: 0cm;
+}
+
+.b {
+  margin: 0mm;
+}
+
+.c {
+  margin: 0in;
+}
+
+.d {
+  margin: 0px;
+}
+
+.e {
+  margin: 0pt;
+}
+
+.f {
+  margin: 0pc;
+}
+
+.g {
+  margin: 0em;
+}
+
+.h {
+  margin: 0ex;
+}
+
+.i {
+  margin: 0ch;
+}
+
+.j {
+  margin: 0rem;
+}
+
+.k {
+  margin: 0vw;
+}
+
+.l {
+  margin: 0vh;
+}
+
+.m {
+  margin: 0vmin;
+}
+
+.n {
+  margin: 0vmax;
+}
