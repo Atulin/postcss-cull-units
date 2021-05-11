@@ -17,7 +17,7 @@
   "license": "MIT",
   "repository": "Atulin/postcss-cull-units",
   "dependencies": {
-    "postcss": "^7.0.27"
+    "postcss": "^8.2.10"
   },
   "devDependencies": {
     "@logux/eslint-config": "^33.0.0",
